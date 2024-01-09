@@ -23,9 +23,6 @@
   - Pre Security Learning Path
   - Introduction to Cyber Security Learning Path
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KNCn23&show_icons=true&theme=dark"/>
-
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNCn23&layout=compact&theme=dark"/>
 
 ### 🖥️ Languages
 
