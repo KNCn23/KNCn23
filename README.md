@@ -27,6 +27,7 @@
 
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNCn23&layout=compact&theme=dark"/>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KNCn23)](https://git.io/streak-stats)
 
 ### 🖥️ Languages
 
