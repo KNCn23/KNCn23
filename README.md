@@ -1,46 +1,38 @@
-#   Hello There 👋
+# 👋 Merhaba, Ben Kaan!
 
-## 🚀 About Me
+### 💻 Bilgisayar Mühendisliği Öğrencisi & Geliştirici
 
-🎓 I'm Kaan Olcay, a computer engineering student and try to get my Bachelor in Computer Science & Engineering and will graduate in mid-2025.
+Teknolojiye duyduğum merakla, karmaşık problemleri zarif kod çözümlerine dönüştürmeyi seviyorum. Özellikle **Yapay Zeka**, **Artırılmış Gerçeklik (AR)** ve **Backend Geliştirme** konularına odaklanıyorum.
 
-👨‍💻 I enjoy contributing to Open Source Projects and have some experience with Python at KodFU company. I did a voluntary internship there in the field of machine learning and artificial intelligence. Used keras,numpy,tenserflow etc.
+---
 
-🏐 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from voleyball, basketball, music, and to cook food.
+### 🚀 Nelerle İlgileniyorum?
+- 🐍 **Python:** AI Hand-tracking projeleri ve otomasyon sistemleri.
+- ☕ **Java & Spring Boot:** Kurumsal düzeyde veritabanı yönetimi ve API geliştirme.
+- 🎨 **AR (Augmented Reality):** Görüntü işleme kütüphaneleriyle (OpenCV, MediaPipe) etkileşimli deneyimler.
+- 🎮 **Oyun Geliştirme:** Python tabanlı RPG ve macera oyunları.
 
-✈️ I love traveling too. I traveled all over Turkey ,Rhodos at Grecee and  some in the Balkans like Macedonia.
+---
 
-## 🏅 Achievements
-- 🥇 Rank 1 at C at HackerRank.
-- 🙌🏻 Top %20 at TryHackMe.
-- ⾘ TryHackMe Badges
-  - 7 Day Streak
-  - Networking Nerd
-  - World Wide Web
-  - cat Linux.txt
-  - Webbed
-- 📕 TryHackMe certificate
-  - Pre Security Learning Path
-  - Introduction to Cyber Security Learning Path
-    
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KNCn23&show_icons=true&theme=dark"/>
+### 🛠️ Kullandığım Teknolojiler & Araçlar
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNCn23&layout=compact&theme=dark"/>
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KNCn23)](https://git.io/streak-stats)
+### 📊 GitHub İstatistiklerim
+![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KNCn23&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KNCn23&layout=compact&theme=radical)
 
-### 🖥️ Languages
+---
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,r" />
-  </a>
-</p>
+### 📫 Bana Ulaşın
+- **LinkedIn:** [linkedin.com/in/kaancanolcay](https://www.linkedin.com/in/kaancanolcay) (Burayı güncelleyebiliriz)
+- **E-posta:** (E-postanı buraya ekleyebiliriz)
 
-### 🛠️ Skills & Platforms
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,pytorch,tensorflow,blender,unreal,vscode,stackoverflow" />
-  </a>
-</p>
+---
+*Bu profil KNCnV2 asistanı tarafından optimize edilmiştir. ⚡️*
