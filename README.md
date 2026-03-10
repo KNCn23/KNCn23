@@ -31,8 +31,5 @@ Teknolojiye duyduğum merakla, karmaşık problemleri zarif kod çözümlerine d
 ---
 
 ### 📫 Bana Ulaşın
-- **LinkedIn:** [linkedin.com/in/kaancanolcay](https://www.linkedin.com/in/kaancanolcay) (Burayı güncelleyebiliriz)
-- **E-posta:** (E-postanı buraya ekleyebiliriz)
-
----
-*Bu profil KNCnV2 asistanı tarafından optimize edilmiştir. ⚡️*
+- **LinkedIn:** https://www.linkedin.com/in/ata-kaan-can-olcay-0154a2208/
+- **E-posta:** kaancanolcay@gmail.com
