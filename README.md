@@ -24,12 +24,6 @@ Teknolojiye duyduğum merakla, karmaşık problemleri zarif kod çözümlerine d
 
 ---
 
-### 📊 GitHub İstatistiklerim
-![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KNCn23&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KNCn23&layout=compact&theme=radical)
-
----
-
 ### 📫 Bana Ulaşın
 - **LinkedIn:** https://www.linkedin.com/in/ata-kaan-can-olcay-0154a2208/
 - **E-posta:** kaancanolcay@gmail.com
