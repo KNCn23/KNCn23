@@ -7,18 +7,18 @@ Computer Engineering student at Başkent University, focused on constraint progr
 ## Areas of Interest
 
 - **Constraint Programming & Optimization** — CP-SAT, Google OR-Tools, academic scheduling
-- **Computer Vision** | OpenCV, MediaPipe, augmented reality
-- **Backend Development** | FastAPI, Spring Boot, PostgreSQL
-- **Game Development** | Python/Pygame, RPG mechanics
+- **Computer Vision** — OpenCV, MediaPipe, augmented reality
+- **Backend Development** — FastAPI, Spring Boot, PostgreSQL
+- **Game Development** — Python/Pygame, RPG mechanics
 
 ---
 
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-!i[Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-!i[OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
