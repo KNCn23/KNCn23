@@ -44,5 +44,6 @@ Software development and design; testing, debugging, and project documentation.
 
 ## Contact
 
+- 🌐 [Portfolio — kncn23.github.io](https://kncn23.github.io)
 - [LinkedIn](https://www.linkedin.com/in/ata-kaan-can-olcay-0154a2208/)
 - kaancanolcay@gmail.com
