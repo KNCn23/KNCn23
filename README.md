@@ -1,6 +1,8 @@
 # Ata Kaan Can Olcay
 
-Computer Engineering student at Başkent University (graduating Jan 2027), with industry experience in defense and aerospace technologies. My work spans edge AI optimization, embedded software development, and systems programming — primarily in C, C++, and Python.
+Final-year Computer Engineering student at Başkent University (graduating 2026), with internship experience in the Turkish defense industry. I build personal projects in edge AI optimization, embedded software development, and systems programming — primarily in C, C++, and Python.
+
+🌐 **Portfolio:** [kncn23.github.io](https://kncn23.github.io) — projects, experience and CV (EN / TR)
 
 ---
 
