@@ -68,6 +68,8 @@ edge AI optimization, embedded software and systems programming, primarily in **
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KNCn23&bg_color=0a0e14&color=8b9bb4&line=58e6d9&point=7c8cff&area=true&area_color=58e6d9&hide_border=false&border_color=1f2a3c&radius=12" alt="Contribution graph" width="100%">
 
+<img src="https://raw.githubusercontent.com/KNCn23/KNCn23/output/github-snake.svg" alt="Contribution snake" width="100%">
+
 </div>
 
 ---
