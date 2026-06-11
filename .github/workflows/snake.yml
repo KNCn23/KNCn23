@@ -1,0 +1,32 @@
+name: generate snake animation
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: generate github-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # themed to kncn23.github.io — teal contribution dots, periwinkle snake
+          outputs: |
+            dist/github-snake.svg?color_snake=#7c8cff&color_dots=#1f2a3c,#1c4a52,#2e8580,#43c2b8,#58e6d9
+
+      - name: push github-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
