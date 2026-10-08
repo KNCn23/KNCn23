@@ -8,6 +8,7 @@ edge AI optimization, embedded software and systems programming, primarily in **
 [![Portfolio](https://img.shields.io/badge/portfolio-kncn23.github.io-58e6d9?style=flat-square&labelColor=0a0e14)](https://kncn23.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ata--kaan--can--olcay-7c8cff?style=flat-square&labelColor=0a0e14)](https://www.linkedin.com/in/ata-kaan-can-olcay-0154a2208/)
 [![Email](https://img.shields.io/badge/email-kaancanolcay%40gmail.com-58e6d9?style=flat-square&labelColor=0a0e14)](mailto:kaancanolcay@gmail.com)
+![Profile views](https://hits.sh/github.com/KNCn23.svg?style=flat-square&label=profile%20views&color=58e6d9&labelColor=0a0e14)
 
 </div>
 
