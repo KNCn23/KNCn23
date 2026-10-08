@@ -19,9 +19,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # themed to kncn23.github.io — teal contribution dots, periwinkle snake
+          # themed to kncn23.github.io — warm neutral dots ramping to the signal
+          # orange; mid-tone empty dots so it reads on light and dark GitHub alike
           outputs: |
-            dist/github-snake.svg?color_snake=#7c8cff&color_dots=#1f2a3c,#1c4a52,#2e8580,#43c2b8,#58e6d9
+            dist/github-snake.svg?color_snake=#c24c1b&color_dots=#a9a295,#e0b9a2,#d98d64,#cf6b35,#c24c1b
 
       - name: push github-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
