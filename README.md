@@ -79,11 +79,6 @@ edge AI optimization, embedded software and systems programming, primarily in **
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNCn23&layout=compact&bg_color=f6f3ec&title_color=c24c1b&text_color=3a3d44&border_color=d8d2c6&langs_count=8" alt="Top languages" height="165">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KNCn23&bg_color=14161a&color=c9c3b8&line=e2763f&point=f6f3ec&area=true&area_color=e2763f&hide_border=false&border_color=33373e&radius=0">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KNCn23&bg_color=f6f3ec&color=6b6459&line=c24c1b&point=14161a&area=true&area_color=c24c1b&hide_border=false&border_color=d8d2c6&radius=0" alt="Contribution graph" width="100%">
-</picture>
-
 <img src="https://raw.githubusercontent.com/KNCn23/KNCn23/output/github-snake.svg" alt="Contribution snake" width="100%">
 
 </div>
